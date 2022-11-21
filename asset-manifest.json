@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nft-app/static/css/main.8ce64f8a.css",
+    "main.js": "/nft-app/static/js/main.49d16ccc.js",
+    "static/media/home.png": "/nft-app/static/media/home.8270e7d66bdc4d29834a.png",
+    "static/media/chelsea.png": "/nft-app/static/media/chelsea.8489cbed1a833e0397bd.png",
+    "static/media/liverpool.png": "/nft-app/static/media/liverpool.2c38016cce9ee52fbc44.png",
+    "static/media/bayern.png": "/nft-app/static/media/bayern.c7734224b54e40c7b5a9.png",
+    "static/media/barcelona.png": "/nft-app/static/media/barcelona.f2eda0e2f2e84acbcf5f.png",
+    "static/media/release1.png": "/nft-app/static/media/release1.85a0416b8f9902e53d0f.png",
+    "index.html": "/nft-app/index.html",
+    "main.8ce64f8a.css.map": "/nft-app/static/css/main.8ce64f8a.css.map",
+    "main.49d16ccc.js.map": "/nft-app/static/js/main.49d16ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce64f8a.css",
+    "static/js/main.49d16ccc.js"
+  ]
+}
